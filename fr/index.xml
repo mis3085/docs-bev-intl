@@ -20,7 +20,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#solutions-polyvalentes-pour-les-besoins-en-axe-et-cassette&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#solutions-polyvalentes-pour-les-besoins-en-axe-et-cassette&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -39,7 +40,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#points-forts-de-lindustrie-et-%c3%a9v%c3%a9nements-%c3%a0-venir&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#points-forts-de-lindustrie-et-%c3%a9v%c3%a9nements-%c3%a0-venir&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -58,7 +60,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#valoriser-les-marques-de-v%c3%a9los-avec-des-services-dimpression-professionnels&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#valoriser-les-marques-de-v%c3%a9los-avec-des-services-dimpression-professionnels&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -77,7 +80,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#s%c3%a9lection-compl%c3%a8te-daccessoires-de-v%c3%a9lo-pour-des-besoins-divers&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#s%c3%a9lection-compl%c3%a8te-daccessoires-de-v%c3%a9lo-pour-des-besoins-divers&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -96,7 +100,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#d%c3%a9couvrez-des-accessoires-polyvalents-pour-cadres-de-v%c3%a9lo&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#d%c3%a9couvrez-des-accessoires-polyvalents-pour-cadres-de-v%c3%a9lo&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -115,7 +120,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#garantir-la-qualit%c3%a9-et-la-confiance-dans-les-composants-de-v%c3%a9lo&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#garantir-la-qualit%c3%a9-et-la-confiance-dans-les-composants-de-v%c3%a9lo&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -134,7 +140,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#entrer-en-contact-avec-notre-%c3%a9quipe-pour-des-solutions-de-v%c3%a9lo&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#entrer-en-contact-avec-notre-%c3%a9quipe-pour-des-solutions-de-v%c3%a9lo&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -153,7 +160,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#solutions-diversifi%c3%a9es-pour-fourches-avant-de-v%c3%a9lo-et-accessoires&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#solutions-diversifi%c3%a9es-pour-fourches-avant-de-v%c3%a9lo-et-accessoires&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -172,7 +180,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#solutions-compl%c3%a8tes-pour-guidons-de-v%c3%a9lo-et-accessoires&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#solutions-compl%c3%a8tes-pour-guidons-de-v%c3%a9lo-et-accessoires&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -191,7 +200,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%c3%a9tapes-cl%c3%a9s-et-vision-de-bev-international-corp&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%c3%a9tapes-cl%c3%a9s-et-vision-de-bev-international-corp&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -210,7 +220,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#le-cyclisme-comme-mode-de-vie--le-parcours-et-la-vision-de-bev-international&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#le-cyclisme-comme-mode-de-vie--le-parcours-et-la-vision-de-bev-international&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -229,7 +240,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#aper%c3%a7u-complet-des-pi%c3%a8ces-et-accessoires-de-v%c3%a9lo&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#aper%c3%a7u-complet-des-pi%c3%a8ces-et-accessoires-de-v%c3%a9lo&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -248,7 +260,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#solutions-polyvalentes-pour-lhydratation-et-lentretien&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#solutions-polyvalentes-pour-lhydratation-et-lentretien&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -267,7 +280,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#solutions-compl%c3%a8tes-pour-tige-de-selle-selle-et-accessoires&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#solutions-compl%c3%a8tes-pour-tige-de-selle-selle-et-accessoires&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -286,7 +300,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#solutions-de-v%c3%a9lo-cargo-pour-des-besoins-de-transport-polyvalents&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#solutions-de-v%c3%a9lo-cargo-pour-des-besoins-de-transport-polyvalents&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -305,7 +320,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#solutions-compl%c3%a8tes-pour-composants-de-v%c3%a9lo-d%c3%a9quilibre&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#solutions-compl%c3%a8tes-pour-composants-de-v%c3%a9lo-d%c3%a9quilibre&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -324,7 +340,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#solutions-compactes-pour-les-cyclistes-urbains&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#solutions-compactes-pour-les-cyclistes-urbains&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
